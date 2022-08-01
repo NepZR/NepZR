@@ -3,14 +3,14 @@
 <p align="justify">
   <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="24px"/>
   <code>
-   Me chamo Lucas Rodrigues, atualmente cursando Bacharelado em Ciência da Computação na Universidade Federal do Oeste do Pará. Tenho uma grande paixão pela Ciência de Dados, especificamente na área de Mineração de Dados. Atuei anteriormente como bolsista de pesquisa direcionado para Análise de Mídias Sociais com uso de técnicas de PLN e Mineração de Dados. Atualmente, sou um Dev. Back-End Python Jr. na Turivius, no time de Aquisição de Dados.
+   Me chamo Lucas Rodrigues, atualmente cursando Bacharelado em Ciência da Computação na Universidade Federal do Oeste do Pará. Tenho uma grande paixão pela Ciência de Dados, especificamente na área de Mineração de Dados. Atuei anteriormente como bolsista de pesquisa direcionado para Análise de Mídias Sociais com uso de técnicas de PLN e Mineração de Dados. Atualmente, trabalho como Desenvolvedor Backend na Turivius, integrado no time de Aquisição de Dados.
   </code>
 </p>
 
 <p align="justify">
   <img src="https://cdn-icons-png.flaticon.com/512/206/206626.png" width="24px"/>
   <code>
-   I'm Lucas Rodrigues, currently pursuing a B.Sc in Computer Science at the Federal University of Western Pará. I'm interested in Data Science, more specifically in Data Mining. I have worked before as a Research Fellow with Social Media Analysis using NLP and Data Mining techniques. Now working as a Dev. Back-End Python Jr. at Turivius, on the Data Acquisition Team.
+   I'm Lucas Rodrigues, currently pursuing a B.Sc in Computer Science at the Federal University of Western Pará. I'm interested in Data Science, more specifically in Data Mining. I have worked before as a Research Fellow with Social Media Analysis using NLP and Data Mining techniques. Now working as a Backend Developer at Turivius, integrated in the Data Acquisition Team.
   </code>
 </p>
 
