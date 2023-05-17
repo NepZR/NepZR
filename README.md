@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-Portuguese (BR), English-292e33?style=flat-square&logo=messenger&logoColor=fff">
   <br>
   <img src="https://img.shields.io/badge/Keyboard%20and%20Mice-Royal%20Kludge%20RK--H81%20(Blue)%2C%20Logi%20MX%20Master%203-292e33?style=flat-square">
-  <img src="https://img.shields.io/badge/Display-LG 29WK600 (Primary), MBP Int. Display-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Displays-Samsung U32J59x (Primary), LG 29WK600 (Secondary, Portrait)-292e33?style=flat-square">
 </p>
 
 ---
@@ -25,6 +25,7 @@
   <img style="width: auto;" src="https://img.shields.io/badge/Selenium WebDriver-292e33?style=flat-square&logo=Selenium&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/ElasticSearch-292e33?style=flat-square&logo=ElasticSearch&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff">
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/RabbitMQ-292e33?style=flat-square&logo=RabbitMQ&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=Docker&logoColor=fff">
