@@ -46,14 +46,3 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasdfr/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=fff"></a>
 </p>
-
----
-
-<details open>
- <summary align="center"><b>GitHub Statistics</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=NepZR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=34">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NepZR&hide=TeX,HTML&theme=tokyonight">
-</p>
-</details>
