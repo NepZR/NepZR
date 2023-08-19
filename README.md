@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-Portuguese (BR), English-292e33?style=flat-square&logo=messenger&logoColor=fff">
   <br>
   <img src="https://img.shields.io/badge/Keyboard%20and%20Mice-Royal%20Kludge%20RK--H81%20%2C%20Logi%20MX%20Master%203-292e33?style=flat-square">
-  <img src="https://img.shields.io/badge/Displays-Samsung U32J59x (Primary), LG 29WK600 (Secondary, Portrait)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Displays-Samsung U32J59x (Primary), LG 29WK600 (Secondary)-292e33?style=flat-square">
 </p>
 
 ---
