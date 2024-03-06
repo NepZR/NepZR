@@ -5,12 +5,12 @@
 <h3 align="center">Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main System-MacBook Pro (2021, A2442)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Main System-ASUS TUF F15 (2023) @ Core i7 12700H, RTX3050 4GB, 64GB DDR4, 1.5TB NVMe)-292e33?style=flat-square"><br>
   <img src="https://img.shields.io/badge/IDE-PyCharm Professional-292e33?style=flat-square&logo=pycharm&logoColor=fff">
   <img src="https://img.shields.io/badge/Languages-Portuguese (BR), English-292e33?style=flat-square&logo=messenger&logoColor=fff">
   <br>
-  <img src="https://img.shields.io/badge/Keyboard%20and%20Mice-Logi%20MX%20Mechanical%20Mini%20%2C%20Logi%20MX%20Vertical-292e33?style=flat-square">
-  <img src="https://img.shields.io/badge/Displays-Samsung U32J59x (Primary), LG 29WK600 (Secondary)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Keyboard%20and%20Mice-Logi%20MX%20Mechanical%20Mini%2C%20Logi%20MX%20Vertical-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Displays-2x Samsung 32in 4K60 U32J59x-292e33?style=flat-square">
 </p>
 
 ---
