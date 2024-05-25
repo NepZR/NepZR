@@ -5,11 +5,11 @@
 <h3 align="center">Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main System-Mac Mini (2023 with M2, 16GB/256GB) + 1TB NVMe SSD-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Main System-Mac Mini (Apple M2, 16GB/256GB) + 1TB NVMe SSD-292e33?style=flat-square">
   <br>
-  <img src="https://img.shields.io/badge/Displays-LG 32UQ750 (31.5in 4K144, Primary) + Samsung U32J59x (32in 4K60, Secondary)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Displays-LG 32UQ750 (31.5in 4K144, Main) + Samsung U32J59x (32in 4K60, Secondary) + VCHANCE Portable Monitor (13.3in, OLED, 4K60, Secondary)-292e33?style=flat-square">
   <br>
-  <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini and MX Vertical + EMEET S600 4K Webcam + Husky Howl Microphone-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini and MX Master 3s + EMEET S600 Webcam + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
   <img src="https://img.shields.io/badge/IDE-PyCharm Professional-292e33?style=flat-square&logo=pycharm&logoColor=fff">
   <img src="https://img.shields.io/badge/Languages-Portuguese, English-292e33?style=flat-square&logo=messenger&logoColor=fff">
