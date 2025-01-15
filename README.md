@@ -9,7 +9,7 @@
   <br>
   <img src="https://img.shields.io/badge/Displays-LG 32UQ750 (31.5in 4K144, Main) + Samsung U32J59x (32in 4K60, Secondary)-292e33?style=flat-square">
   <br>
-  <img src="https://img.shields.io/badge/Peripherals-EPOMAKER TH80 Pro + Logi MX Master 3S + Logi C920s + Husky Howl Microphone-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini + Logi MX Master 3S + EMEET S600 + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
   <img src="https://img.shields.io/badge/IDE-PyCharm Professional-292e33?style=flat-square&logo=pycharm&logoColor=fff">
   <img src="https://img.shields.io/badge/Languages-Portuguese, English-292e33?style=flat-square&logo=messenger&logoColor=fff">
