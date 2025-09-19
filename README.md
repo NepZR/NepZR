@@ -5,14 +5,15 @@
 <h3 align="center">🖥️ Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main Rig-MacBook Pro (A2442, with Apple M1 Pro &ndash; 16GB/512GB)-292e33?style=flat-square">  <img src="https://img.shields.io/badge/Docking Station-DELL Universal USB&ndash;C, Model UD22-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Main Rig-MacBook Pro (A2442, with Apple M1 Pro &ndash; 16GB/512GB)-292e33?style=flat-square">
   <br>
-  <img src="https://img.shields.io/badge/Displays-LG 34GP63A&ndash;B (34in, WQHD @ 160Hz) + MBP Screen + iPad Mini 6th Gen (Sidecar Mode)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Displays-LG 32UQ750&ndash;W (32in, 4K @ 144Hz) + MBP Screen-292e33?style=flat-square">
   <br>
   <img src="https://img.shields.io/badge/Peripherals-Logi MX Keys S + Logi MX Master 3S + EMEET S600 + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
-  <img src="https://img.shields.io/badge/IDE-PyCharm Professional-292e33?style=flat-square&logo=pycharm&logoColor=fff">
-  <img src="https://img.shields.io/badge/Languages-Portuguese, English-292e33?style=flat-square&logo=messenger&logoColor=fff">
+  <img src="https://img.shields.io/badge/Coding Tools-PyCharm + Beekeeper Studio + Termius-292e33?style=flat-square&logo=zsh&logoColor=fff">
+  <br>
+  <img src="https://img.shields.io/badge/Languages-Portuguese (Native), English (C2)-292e33?style=flat-square&logo=imessage&logoColor=fff">
 </p>
 
 ---
@@ -51,5 +52,5 @@
 </h3>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasdfr/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=fff"></a>
+  <a href="https://www.linkedin.com/in/lucasdfr/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=imessage&logoColor=fff"></a>
 </p>
