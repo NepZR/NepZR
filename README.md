@@ -5,13 +5,13 @@
 <h3 align="center">🖥️ Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main Rig-MacBook Pro (A2442, with Apple M1 Pro &ndash; 16GB/512GB)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Main Rig-Mac mini with Apple M4, 24GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL Universal USB&ndash;C, Model UD22-292e33?style=flat-square">
   <br>
-  <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Displays-LG 32UQ750&ndash;W (32in, 4K @ 144Hz) + MBP Screen-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Displays-LG 32UQ750&ndash;W (32in, 4K @ 144Hz) + Arzopa Z1RC (16in, 2.5K @ 60Hz)-292e33?style=flat-square">
   <br>
-  <img src="https://img.shields.io/badge/Peripherals-Logi MX Keys S + Logi MX Master 3S + EMEET S600 + Husky Howl Microphone-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini + Logi MX Master 3S + EMEET S600 + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
-  <img src="https://img.shields.io/badge/Coding Tools-PyCharm + Beekeeper Studio + Termius-292e33?style=flat-square&logo=zsh&logoColor=fff">
+  <img src="https://img.shields.io/badge/Coding Tools-PyCharm + Beekeeper Studio + Termius + Warp-292e33?style=flat-square&logo=zsh&logoColor=fff">
   <br>
   <img src="https://img.shields.io/badge/Languages-Portuguese (Native), English (C2)-292e33?style=flat-square&logo=imessage&logoColor=fff">
 </p>
