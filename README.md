@@ -5,9 +5,7 @@
 <h3 align="center">🖥️ Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main Rig-Mac mini with Apple M4, 24GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL Universal USB&ndash;C, Model UD22-292e33?style=flat-square">
-  <br>
-  <img src="https://img.shields.io/badge/Displays-LG 32UQ750&ndash;W (32in, 4K @ 144Hz) + Arzopa Z1RC (16in, 2.5K @ 60Hz)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Main Rig-Mac mini with Apple M4, 24GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Displays-Arzopa Z1RC (16in, 2.5K @ 60Hz)-292e33?style=flat-square">
   <br>
   <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini + Logi MX Master 3S + OBSBot Tiny 2 Lite + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
@@ -33,6 +31,7 @@
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/RabbitMQ-292e33?style=flat-square&logo=RabbitMQ&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=Docker&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Metabase-292e33?style=flat-square&logo=metabase&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/AWS-292e33?style=flat-square&logo=amazon&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/GCP-292e33?style=flat-square&logo=google-cloud&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Django-292e33?style=flat-square&logo=Django&logoColor=fff">
@@ -52,5 +51,5 @@
 </h3>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasdfr/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=imessage&logoColor=fff"></a>
+  <a href="https://www.linkedin.com/in/lucasdfr/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=googlechat&logoColor=fff"></a>
 </p>
