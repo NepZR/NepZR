@@ -5,7 +5,9 @@
 <h3 align="center">🖥️ Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main Rig-Mac mini with Apple M4, 24GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Displays-Arzopa Z1RC (16in, 2.5K @ 60Hz)-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/Main Rig-Mac mini with Apple M4, 24GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> 
+  <br>
+  <img src="https://img.shields.io/badge/Displays-2x Philips 278E (27in, 4K @ 60Hz) + Arzopa Z1RC (16in, 2.5K @ 60Hz)-292e33?style=flat-square">
   <br>
   <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini + Logi MX Master 3S + OBSBot Tiny 2 Lite + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
