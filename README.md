@@ -5,13 +5,13 @@
 <h3 align="center">🖥️ Setup Overview</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main Rig-Mac mini with Apple M4, 24GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> 
+  <img src="https://img.shields.io/badge/Main Rig-MacBook Pro (A2485, M1 Pro with 10C/16C), 16GB/512GB-292e33?style=flat-square"> <img src="https://img.shields.io/badge/Docking Station-DELL UD22-292e33?style=flat-square"> 
   <br>
   <img src="https://img.shields.io/badge/Displays-2x Philips 278E (27in, 4K @ 60Hz) + Arzopa Z1RC (16in, 2.5K @ 60Hz)-292e33?style=flat-square">
   <br>
   <img src="https://img.shields.io/badge/Peripherals-Logi MX Mechanical Mini + Logi MX Master 3S + OBSBot Tiny 2 Lite + Husky Howl Microphone-292e33?style=flat-square">
   <br><br>
-  <img src="https://img.shields.io/badge/Coding Tools-PyCharm + Beekeeper Studio + Termius-292e33?style=flat-square&logo=zsh&logoColor=fff"> 
+  <img src="https://img.shields.io/badge/Coding Tools-VS Code + Beekeeper Studio + Termius + Claude Code-292e33?style=flat-square&logo=zsh&logoColor=fff"> 
   <img src="https://img.shields.io/badge/Languages-Portuguese (Native), English (C2)-292e33?style=flat-square&logo=imessage&logoColor=fff">
 </p>
 
@@ -39,6 +39,7 @@
   <img style="width: auto;" src="https://img.shields.io/badge/Django-292e33?style=flat-square&logo=Django&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/Flask-292e33?style=flat-square&logo=Flask&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=FastAPI&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Claude Code-292e33?style=flat-square&logo=claude&logoColor=fff">
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square">
   <img style="width: auto;" src="https://img.shields.io/badge/XPath-292e33?style=flat-square">
